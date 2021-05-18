@@ -1,6 +1,6 @@
 [nom du produit, la quantité demandée, les références…] = __PRODUCT_NAME__ __PRODUCT_REF__ 
 
-prop comm :
+
 [nature de la proposition commerciale] = __PROPAL_NAME__
 
 [Indiquez précisément l'objet social de l'entreprise] = __COMPANY_OBJECT__
@@ -8,6 +8,5 @@ prop comm :
 [chèque, virement ou espèces.] = __PAYMENT_METHOD__
 
  
-tickets: 
 [severité] __TICKET_SEVERITY__
 [categorie] __TICKET_CATEGORY__
